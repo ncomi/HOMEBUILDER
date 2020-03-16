@@ -64,7 +64,7 @@ body{
     border: 1px solid grey;
   }
 #Home-page{
-  background: url("../images/house3.jpg");
+  background: url("house3.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
